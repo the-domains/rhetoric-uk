@@ -1,0 +1,28 @@
+name: Rhetoric.uk
+favicon: null
+layout_spectrum: 0.8775062789209187
+typography_spectrum: 0.4062014988157898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8284523640759289
+  lightness: 0.9829295689705759
+  saturation: 0.3731445777229965
+  rhythmicContrast: 0.9562736260704696
+purpose: []
